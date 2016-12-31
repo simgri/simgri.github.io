@@ -1,0 +1,17 @@
+h1 {
+  font-family: Georgia, serif;
+}
+
+p {
+  font-family: Helvetica, sans-serif;
+  max-width: 200px;
+}
+
+img {
+  max-width: 200px;
+}
+
+* {
+  background-color: beige;
+  color: brown;
+}
